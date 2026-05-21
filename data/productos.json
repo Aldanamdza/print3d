@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "nombre":"Soporte para auriculares",
+        "precio":"4000",
+        "categoria":"Accesorios",
+        "descripcion":"Soprte ideal para escritorio gamer.",
+        "imagen":"/images/soporteAuri.png",
+        "stock":12
+    },
+    {
+        "id":2,
+        "nombre":"Maceta geométrica",
+        "precio":"3500",
+        "categoria":"Decoración",
+        "descripcion":"Maceta moderna para plantas pequeñas.",
+        "imagen":"/images/macetaGeometrica.png",
+        "stock":20
+    },
+    {
+        "id":3,
+        "nombre":"Organizador de cables",
+        "precio":"1800",
+        "categoria":"Oficina",
+        "descripcion":"Mantiene tus cables ordenad y orgaizados.",
+        "imagen":"/images/organizadorCables.png",
+        "stock":30
+    },
+    {
+        "id":4,
+        "nombre":"Llavero Personalizado",
+        "precio":"1500",
+        "categoria":"Personalizado",
+        "descripcion":"Llavero impreso con nombres personalizados.",
+        "imagen":"/images/llavero.png",
+        "stock":25
+    },{
+        "id":5,
+        "nombre":"Figura Zorro Articulado",
+        "precio":"7800",
+        "categoria":"Figuras",
+        "descripcion":"Figura flexible articulada.",
+        "imagen":"/images/animal.jpg",
+        "stock":8
+    },
+    {
+        "id":6,
+         "destacado": true,
+        "nombre":"Figura Anime",
+        "precio":"7000",
+        "categoria":"Figuras Luffy - One Piece",
+        "descripcion":"Figura Luffy .",
+        "imagen":"/images/figuraAnime.png",
+        "stock":5
+    },
+    {
+        "id":7,
+         "destacado": true,
+        "nombre":"Maqueta ciudad",
+        "precio":"15000",
+        "categoria":"Figuras",
+        "descripcion":"Maquetas para proyectos",
+        "imagen":"/images/maqueta.png",
+        "stock":8
+    }
+]

@@ -5,7 +5,7 @@
         "precio":"4000",
         "categoria":"Accesorios",
         "descripcion":"Soprte ideal para escritorio gamer.",
-        "imagen":"/images/soporteAuri.png",
+        "imagen":"images/soporteAuri.png",
         "stock":12
     },
     {
@@ -14,7 +14,7 @@
         "precio":"3500",
         "categoria":"Decoración",
         "descripcion":"Maceta moderna para plantas pequeñas.",
-        "imagen":"/images/macetaGeometrica.png",
+        "imagen":"images/macetaGeometrica.png",
         "stock":20
     },
     {
@@ -23,7 +23,7 @@
         "precio":"1800",
         "categoria":"Oficina",
         "descripcion":"Mantiene tus cables ordenad y orgaizados.",
-        "imagen":"/images/organizadorCables.png",
+        "imagen":"images/organizadorCables.png",
         "stock":30
     },
     {
@@ -32,7 +32,7 @@
         "precio":"1500",
         "categoria":"Personalizado",
         "descripcion":"Llavero impreso con nombres personalizados.",
-        "imagen":"/images/llavero.png",
+        "imagen":"images/llavero.png",
         "stock":25
     },{
         "id":5,
@@ -40,7 +40,7 @@
         "precio":"7800",
         "categoria":"Figuras",
         "descripcion":"Figura flexible articulada.",
-        "imagen":"/images/animal.jpg",
+        "imagen":"images/animal.jpg",
         "stock":8
     },
     {
@@ -50,7 +50,7 @@
         "precio":"7000",
         "categoria":"Figuras Luffy - One Piece",
         "descripcion":"Figura Luffy .",
-        "imagen":"/images/figuraAnime.png",
+        "imagen":"images/figuraAnime.png",
         "stock":5
     },
     {
@@ -60,7 +60,7 @@
         "precio":"15000",
         "categoria":"Figuras",
         "descripcion":"Maquetas para proyectos",
-        "imagen":"/images/maqueta.png",
+        "imagen":"images/maqueta.png",
         "stock":8
     }
 ]

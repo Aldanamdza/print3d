@@ -3,17 +3,17 @@
         "id":1,
         "nombre":"Sofia Bazan",
         "puesto": "Comercial",
-        "imagen":"./images/perfil1.png"
+        "imagen":"images/perfil1.png"
     },
     {
         "id":2,
         "nombre":"Jonatan Lopez",
         "puesto": "Operario",
-        "imagen":"./images/perfil2.png"
+        "imagen":"images/perfil2.png"
     },{
         "id":3,
         "nombre":"Jose Znidar",
         "puesto": "Marketing",
-        "imagen":"./images/perfil3.jpg"
+        "imagen":"images/perfil3.jpg"
     }
 ]
